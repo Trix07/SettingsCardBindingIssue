@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SettingsCardBindingIssue (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SettingsCardBindingIssue (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
